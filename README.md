@@ -1,5 +1,7 @@
 # parallaxdepthcards
 
+![example](https://github.com/goblindaydream/Vue-ParallaxDepthCards/blob/master/src/assets/screenshot.png)
+
 ## Project setup
 ```
 npm install
